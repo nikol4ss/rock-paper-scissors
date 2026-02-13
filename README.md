@@ -27,10 +27,11 @@ pip install -r requirements.txt
 
 4. Run the program
 ```bash
-python main.py
+python game.py
 ```
 
 <br>
 <p align="center" style="opacity:0.6;">
 MIT License – see the <a href="LICENSE">LICENSE</a> file for details.
 </p>
+
